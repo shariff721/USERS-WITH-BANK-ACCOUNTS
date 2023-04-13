@@ -74,7 +74,8 @@ class User:
         print(f" Savings Account Balance: {self.savingsaccount.balance}")  
         return self
     
-
+    # def transfer_money(self,amount,other_user):
+    #     other_user
 
 
 sharif = User("muyanja", "smuyanja04@gmail.com")
